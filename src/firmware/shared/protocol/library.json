@@ -1,0 +1,8 @@
+{
+  "name": "solarcam-protocol",
+  "version": "1.0.0",
+  "description": "Shared protocol definitions for SolarCam",
+  "build": {
+    "flags": ["-I include"]
+  }
+}

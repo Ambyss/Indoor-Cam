@@ -1,7 +1,10 @@
 {
-  "name": "solarcam-protocol",
+  "name": "catcam-protocol",
   "version": "1.0.0",
-  "description": "Shared protocol definitions for SolarCam",
+  "description": "Shared BLE protocol definitions for CatCam (S3/C3)",
+  "keywords": ["protocol", "ble"],
+  "frameworks": "espidf",
+  "platforms": "espressif32",
   "build": {
     "flags": ["-I include"]
   }

@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/firmware/camera-s3/components/esp32-camera" vcs="Git" />
   </component>
 </project>

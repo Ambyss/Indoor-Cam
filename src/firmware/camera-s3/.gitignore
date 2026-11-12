@@ -1,1 +1,3 @@
 .pio
+src/secrets.h
+sdkconfig.camera-s3
